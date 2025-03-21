@@ -24,7 +24,7 @@ if ( social_url == "mailto:?body=" ) {
 }
 var request_url = "";
 if ( social_url.indexOf("/pin/create/link/?url=") !== -1 ) {
-	request_url = social_url + encodeURIComponent( window.location.href ) + "&media=" + 'http://localhost/wp-content/uploads/2025/03/aureoPortada.jpg';
+	request_url = social_url + encodeURIComponent( window.location.href ) + "&media=" + 'http://localhost/wp-content/uploads/2025/03/FotosWppGatos05-1024x768.jpeg';
 } else {
 	request_url = social_url + encodeURIComponent( window.location.href );
 }
@@ -53,7 +53,7 @@ if ( social_url == "mailto:?body=" ) {
 }
 var request_url = "";
 if ( social_url.indexOf("/pin/create/link/?url=") !== -1 ) {
-	request_url = social_url + encodeURIComponent( window.location.href ) + "&media=" + 'http://localhost/wp-content/uploads/2025/03/aureoPortada.jpg';
+	request_url = social_url + encodeURIComponent( window.location.href ) + "&media=" + 'http://localhost/wp-content/uploads/2025/03/FotosWppGatos05-1024x768.jpeg';
 } else {
 	request_url = social_url + encodeURIComponent( window.location.href );
 }
@@ -82,7 +82,7 @@ if ( social_url == "mailto:?body=" ) {
 }
 var request_url = "";
 if ( social_url.indexOf("/pin/create/link/?url=") !== -1 ) {
-	request_url = social_url + encodeURIComponent( window.location.href ) + "&media=" + 'http://localhost/wp-content/uploads/2025/03/aureoPortada.jpg';
+	request_url = social_url + encodeURIComponent( window.location.href ) + "&media=" + 'http://localhost/wp-content/uploads/2025/03/FotosWppGatos05-1024x768.jpeg';
 } else {
 	request_url = social_url + encodeURIComponent( window.location.href );
 }
