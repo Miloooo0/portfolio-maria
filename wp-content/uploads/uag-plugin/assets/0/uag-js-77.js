@@ -41,7 +41,7 @@ if ( social_url == "mailto:?body=" ) {
 }
 var request_url = "";
 if ( social_url.indexOf("/pin/create/link/?url=") !== -1 ) {
-	request_url = social_url + encodeURIComponent( window.location.href ) + "&media=" + 'http://localhost/wp-content/uploads/2025/03/copofrac.jpg';
+	request_url = social_url + encodeURIComponent( window.location.href ) + "&media=" + 'http://localhost/wp-content/uploads/2025/03/Imagen-soltada.png';
 } else {
 	request_url = social_url + encodeURIComponent( window.location.href );
 }
@@ -70,7 +70,7 @@ if ( social_url == "mailto:?body=" ) {
 }
 var request_url = "";
 if ( social_url.indexOf("/pin/create/link/?url=") !== -1 ) {
-	request_url = social_url + encodeURIComponent( window.location.href ) + "&media=" + 'http://localhost/wp-content/uploads/2025/03/copofrac.jpg';
+	request_url = social_url + encodeURIComponent( window.location.href ) + "&media=" + 'http://localhost/wp-content/uploads/2025/03/Imagen-soltada.png';
 } else {
 	request_url = social_url + encodeURIComponent( window.location.href );
 }
@@ -99,7 +99,7 @@ if ( social_url == "mailto:?body=" ) {
 }
 var request_url = "";
 if ( social_url.indexOf("/pin/create/link/?url=") !== -1 ) {
-	request_url = social_url + encodeURIComponent( window.location.href ) + "&media=" + 'http://localhost/wp-content/uploads/2025/03/copofrac.jpg';
+	request_url = social_url + encodeURIComponent( window.location.href ) + "&media=" + 'http://localhost/wp-content/uploads/2025/03/Imagen-soltada.png';
 } else {
 	request_url = social_url + encodeURIComponent( window.location.href );
 }
